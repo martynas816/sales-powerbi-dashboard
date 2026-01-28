@@ -22,4 +22,4 @@ Interactive Power BI dashboard analysing Superstore sales performance (2015–20
 3. If prompted, point the data source to `data/superstore.csv`
 
 ## Notes on calculations
-Key DAX measures are documented in `metrics/MEASURES.md`.
+Key DAX measures are documented in `dax/MEASURES.md`.
