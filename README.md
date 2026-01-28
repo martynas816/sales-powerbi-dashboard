@@ -17,9 +17,9 @@ Interactive Power BI dashboard analysing Superstore sales performance (2015–20
 - Superstore sales data (CSV) in `data/`
 
 ## How to use
-1. Download `report/sales_powerbi_dashboard.pbix`
+1. Download `report/sales-powerbi-dashboard.pbix`
 2. Open in Power BI Desktop
 3. If prompted, point the data source to `data/superstore.csv`
 
 ## Notes on calculations
-Key DAX measures are documented in `metrics/dax_measures.md`.
+Key DAX measures are documented in `metrics/MEASURES.md`.
