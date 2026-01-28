@@ -3,7 +3,7 @@
 Interactive Power BI dashboard analysing Superstore sales performance (2015–2018).
 
 ## Dashboard Preview
-![Dashboard](docs/screenshots/01_overview.png)
+![Dashboard](screenshots/01_overview.png)
 
 ## What this shows
 - Revenue trend (monthly)
