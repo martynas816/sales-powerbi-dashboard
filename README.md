@@ -6,7 +6,7 @@ Interactive Power BI dashboard analysing Superstore sales performance (2015–20
 ![Dashboard](screenshots/01_overview.png)
 
 ## What this shows
-- Revenue trend (monthly)
+- Monthly revenue trend
 - Revenue by category
 - Profit by region
 - Top 10 products by revenue
@@ -21,5 +21,4 @@ Interactive Power BI dashboard analysing Superstore sales performance (2015–20
 2. Open in Power BI Desktop
 3. If prompted, point the data source to `data/superstore.csv`
 
-## Notes on calculations
 Key DAX measures are documented in `dax/MEASURES.md`.
